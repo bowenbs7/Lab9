@@ -16,7 +16,7 @@ public class APITest {
 
     /** Subscription key. Replace with your API key. */
     private static final String SUBSCRIPTION_KEY =
-            "13hc77781f7e4b19b5fcdd72a8df7156";
+            "edd95d2aa58b4a70b4c9a103d0bf46a4";
 
     /**
      * Region to use.
